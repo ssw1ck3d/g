@@ -1,0 +1,23 @@
+{
+    "apps": [
+        "apps/fsapp.app",
+        "apps/ashell.app",
+        "apps/nsproxy.app"
+    ],
+    "libs": [
+        "/apps/libfileview.lib",
+        "/apps/libfilepicker.lib",
+        "/apps/libstore.lib",
+        "/apps/libpersist.lib",
+        "/apps/libphoenix.lib"
+    ],
+    "defaultsettings": {
+        "use-sw-cache": false,
+        "applist": ["anura.settings", "anura.fsapp"],
+        "clampWindows": true,
+        "launcher-keybind": true,
+        "relay-url": "wss://relay.widgetry.org/"
+    },
+    "x86": {
+    }
+}

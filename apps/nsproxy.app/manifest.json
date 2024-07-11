@@ -1,0 +1,12 @@
+{
+    "name": "NS Proxy",
+    "type": "auto",
+    "package": "mollomm1.nsproxy",
+    "index": "index.html",
+    "icon": "icon.png",
+    "wininfo": {
+        "title": "",
+        "width": "500px",
+        "height": "500px"
+    }
+}
